@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EliteSMPs3.aternos.me:13241",
+    "ip": "EliteSMPs3.aternos",
     "port": 13241,
     "version": "",
     "try-creative": false
